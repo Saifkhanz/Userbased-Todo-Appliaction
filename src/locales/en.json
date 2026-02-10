@@ -1,0 +1,11 @@
+{
+  "app_title": "User Todo App",
+  "add_todo": "Add Todo",
+  "delete": "Delete",
+  "logout": "Logout",
+  "app_email": "Email",
+  "app_password": "Password",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi"
+}
